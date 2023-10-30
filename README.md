@@ -11,4 +11,4 @@ Controls are operated via the keyboard arrow keys:
 
 
 ## Game UI:
-![Alt text](Image\GameUI.png "ui screenshot")
+![Game UI](Image/GameUI.png "ui screenshot")
